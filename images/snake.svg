@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220.12 163.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eb2e28;
+        stroke: #eb2e28;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        fill: #48b249;
+        stroke: #48b349;
+      }
+    </style>
+  </defs>
+  <g id="_2" data-name="2">
+    <g id="snake">
+      <rect class="cls-2" x=".5" y="140.81" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="28.56" y="140.81" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="56.63" y="140.81" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="84.69" y="140.81" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="84.69" y="112.75" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="84.69" y="84.69" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="56.63" y="84.69" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="28.56" y="84.69" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="28.56" y="56.63" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="28.56" y="28.56" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="28.56" y=".5" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="56.63" y=".5" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="84.69" y=".5" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="112.75" y=".5" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="140.81" y=".5" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="168.88" y=".5" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="168.88" y="28.56" width="22.68" height="22.68"/>
+      <rect class="cls-2" x="168.88" y="56.63" width="22.68" height="22.68"/>
+      <rect class="cls-1" x="196.94" y="112.75" width="22.68" height="22.68"/>
+    </g>
+  </g>
+</svg>

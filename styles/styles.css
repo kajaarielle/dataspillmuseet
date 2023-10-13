@@ -1,0 +1,17 @@
+/* space invaders font + poppins (regular + semibold) */
+
+@font-face {
+    font-family: "Space Invaders";
+    src: url(/fonts/space_invaders.ttf) format(truetype);
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: "Poppins", "PT Sans", Calibri, Tahoma, sans-serif;
+    color: white;
+}
+
+.enSpaceInvadersText {
+    font-family: "Space Invaders", sans-serif;
+}
